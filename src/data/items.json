@@ -1,26 +1,26 @@
 [
     {
       "id": 1,
-      "name": "Banana",
-      "price": 10790,
-      "imgUrl": "/imgs/banana.jpg"
+      "name": "iPhone",
+      "price": 62999,
+      "imgUrl": "/imgs/iphone.webp"
     },
     {
       "id": 2,
-      "name": "Book",
-      "price": 19990,
-      "imgUrl": "/imgs/book.jpg"
+      "name": "laptop",
+      "price": 39990,
+      "imgUrl": "/imgs/laptop.webp"
     },
     {
       "id": 3,
-      "name": "Computer",
+      "name": "Samsung monitor",
       "price": 16490,
-      "imgUrl": "/imgs/computer.jpg"
+      "imgUrl": "/imgs/samsung-monitor.webp"
     },
     {
       "id": 4,
-      "name": "Car",
-      "price": 12067,
-      "imgUrl": "/imgs/car.jpg"
+      "name": "Ninebot",
+      "price": 59990,
+      "imgUrl": "/imgs/ninebot.webp"
     }
   ]
